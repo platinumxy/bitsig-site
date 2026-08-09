@@ -121,10 +121,15 @@ showRSS = false
 # icon = "github"
 # url = "https://github.com/mnjm/kayal"
 #
-# [[social]]
-# name = "Email"
-# icon = "email"
-# url = "mailto:name@example.com"
+[[social]]
+name = "Email"
+icon = "email"
+url = "mailto:bitsig@comp-soc.com"
+
+[[social]]
+name = "Discord"
+icon = "discord"
+url = "https://discord.gg/25GbQKvZJP"
 #
 # [[social]]
 # name = "Twitter / X"
