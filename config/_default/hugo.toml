@@ -6,7 +6,7 @@
 # Site's locale
 locale = 'en-us'
 
-# title = "Site Title"
+# title = "BitSIG Site"
 
 theme = "kayal" # UNCOMMENT THIS LINE
 
